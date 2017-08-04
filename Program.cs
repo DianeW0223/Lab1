@@ -11,6 +11,7 @@ namespace Lab1
         static void Main(string[] args)
 
         {
+            int thing = 0;
             float Length, Width, Area, Perimeter;
             string Input = "0";
 
